@@ -1,5 +1,5 @@
 # coffee-machine
-Implenting a Coffee Machine in Java
+Implementing a Coffee Machine in Java
 
 //uploaded from stage 3
 
