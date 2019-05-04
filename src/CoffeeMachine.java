@@ -36,27 +36,5 @@ public class CoffeeMachine {
         System.out.println(noOfCups*200+" ml of water");
         System.out.println(noOfCups*50+" ml of milk");
         System.out.println(noOfCups*15+" g of coffee beans");*/
-        int a=in.nextInt();
-        String op=in.next();
-        int b=in.nextInt();
-        switch (op){
-            case "+":
-                System.out.println(a+b);
-                break;
-            case "-":
-                System.out.println(a-b);
-                break;
-            case "*":
-                System.out.println(a*b);
-                break;
-            case "/":
-                if(b==0){
-                    System.out.println("Division by 0!");
-                } else {
-                    System.out.println(a/b);
-                }
-                default:
-                    System.out.println("Unknown operator");
-        }
     }
 }
