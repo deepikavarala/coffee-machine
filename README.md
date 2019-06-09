@@ -1,8 +1,6 @@
 # coffee-machine
 Implementing a Coffee Machine in Java
 
-//uploaded from stage 3
-
 - [x] Stage 1: Make a coffee
 - [x] Stage 2: Count needed resources
 - [x] Stage 3: Check if there are enough resources
